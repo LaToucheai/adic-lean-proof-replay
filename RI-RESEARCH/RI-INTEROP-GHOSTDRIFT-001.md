@@ -14,21 +14,13 @@
 | Overall | PARTIAL |
 | RI Conformance | NOT ESTABLISHED |
 
-## Finding
-
-Under the stated test conditions, the ADIC replay-verification result and source-supported facts were represented in RI and consumed by a generic RI receiver without converting formal verification into operational responsibility, authority, acceptance, Recognition or current Standing.
-
-## Claims boundary
-
-The test does not establish GhostDrift or ADIC adoption, endorsement, certification, full RI conformance, Recognition, Registry standing or production interoperability beyond the tested boundary. Formal proof acceptance alone is not treated as evidence of operational responsibility.
-
 ## Research context
 
-This test forms part of the empirical research programme associated with:
+This result forms part of the empirical research programme associated with:
 
 **AI Governance Is Not Enough to Prove Responsibility: A Conceptual and Testable Architecture for Demonstrable Responsibility in AI Systems.** Canonical public research edition, version 1.0 (2026), Responsibility Infrastructure Publications. DOI: https://doi.org/10.5281/zenodo.21848724
 
-The paper provides the research hypothesis and terminology. This result stands on the bounded test itself and does not establish conformance.
+The canonical web record states the published finding and claims boundary. This result does not by itself establish RI conformance.
 
 ## Notice
 
